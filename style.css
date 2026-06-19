@@ -1,0 +1,23 @@
+img{
+    height:25%;
+    width:25%;
+    margin-left:38%;
+    margin-top:10px;
+    border:5px solid #9D6638;
+}
+#text{
+    text-align:center;
+    background:#B0BA99;
+    border:5px solid #9D6638;
+}
+html{
+    background:#F7F1DE;
+    font-family: "Merriweather", serif;
+}
+a{
+    color:black
+}
+body>h2,li{
+    font-size:1.75rem;
+}
+
