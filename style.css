@@ -17,7 +17,16 @@ html{
 a{
     color:black
 }
-body>h2,li{
+body>h2,li,p{
     font-size:1.75rem;
 }
-
+div>p{
+    background:#4E220F;
+    height:50px;
+    color:#F7F1DE;
+}
+hr{
+    background-color: #9D6638;
+    height:3px;
+    border:none
+}
